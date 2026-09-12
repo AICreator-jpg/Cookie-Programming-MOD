@@ -1,5 +1,5 @@
 /*
- * Cookie Programmer MOD v0.1.7
+ * Cookie Programmer MOD v0.1.10
  * Cookie Clicker JavaScript console mini-game
  *
  * Usage:
